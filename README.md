@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Dog Breed image from https://dog.ceo/dog-api/
 
-Things you may want to cover:
+#### Tech Stack: 
+* Ruby 3.2.2
+* Rails 7.1.2
+* React yarn package 18.2.0
+* Bootstrap 5.3.2
 
-* Ruby version
+#### Requirement
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Design a simple web form, which has a text input field, labeled "Breed" and a "Submit" button. When the form is submitted, a dog breed image should be fetched from Dog API (https://dog.ceo/dog-api/) and presented to the right of the web form, along with the submitted dog breed name.
