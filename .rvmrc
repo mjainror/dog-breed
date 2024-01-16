@@ -1,0 +1,2 @@
+rvm use ruby-3.2.2@dog_breed --create
+
